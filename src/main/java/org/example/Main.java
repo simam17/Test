@@ -19,5 +19,6 @@ public class Main {
 
         System.out.println("main");
         System.out.println(3);
+        System.out.println("ttpd");
     }
 }
