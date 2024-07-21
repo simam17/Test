@@ -16,5 +16,7 @@ public class Main {
 
         System.out.println("alohaaaaa");
         int g = 0;
+
+        System.out.println("main");
     }
 }
