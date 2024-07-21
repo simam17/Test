@@ -18,5 +18,6 @@ public class Main {
         int g = 0;
 
         System.out.println("main");
+        System.out.println(3);
     }
 }
